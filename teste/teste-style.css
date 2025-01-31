@@ -10,9 +10,21 @@ body{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-
-
 }
 main{
     width: 100vw;
+}
+
+section#fundo{
+    height: 2000px;
+    width: 2000px;
+    background: url("11556462.jpg") no-repeat;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+iframe#home{
+    height: 600px;
+    width: 600px;
 }
