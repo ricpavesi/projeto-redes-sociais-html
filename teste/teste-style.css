@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-image: url("7600154.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+}
+main{
+    width: 100vw;
+}
